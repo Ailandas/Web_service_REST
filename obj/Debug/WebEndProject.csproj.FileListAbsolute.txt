@@ -1,0 +1,186 @@
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\obj\Debug\WebEndProject.csprojAssemblyReference.cache
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\obj\Debug\WebEndProject.csproj.CoreCompileInputs.cache
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\WebEndProject.dll.config
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\WebEndProject.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\WebEndProject.pdb
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\csc.exe
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\csc.exe.config
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\csc.rsp
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\csi.exe
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\csi.exe.config
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\csi.rsp
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\System.AppContext.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\System.Console.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\System.Net.Http.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\vbc.exe
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\vbc.exe.config
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\vbc.rsp
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\Antlr3.Runtime.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\Newtonsoft.Json.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\System.Net.Http.Formatting.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\System.Web.Helpers.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\System.Web.Http.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\System.Web.Http.WebHost.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\System.Web.Mvc.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\System.Web.Optimization.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\System.Web.Razor.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\System.Web.WebPages.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\WebGrease.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\Newtonsoft.Json.xml
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\System.Net.Http.Formatting.xml
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\System.Web.Helpers.xml
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\System.Web.Http.xml
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\System.Web.Http.WebHost.xml
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\System.Web.Mvc.xml
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\System.Web.Optimization.xml
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\System.Web.Razor.xml
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\System.Web.WebPages.xml
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\Antlr3.Runtime.pdb
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\obj\Debug\WebEndProject.csproj.CopyComplete
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\obj\Debug\WebEndProject.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\obj\Debug\WebEndProject.pdb
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\RestSharp.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\RestSharp.xml
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\WebEndProject.dll.config
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\WebEndProject.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\WebEndProject.pdb
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\csc.exe
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\csc.exe.config
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\csc.rsp
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\csi.exe
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\csi.exe.config
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\csi.rsp
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\System.AppContext.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\System.Console.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\System.Net.Http.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\vbc.exe
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\vbc.exe.config
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\vbc.rsp
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\Antlr3.Runtime.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\Newtonsoft.Json.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\RestSharp.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\System.Data.SQLite.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\System.Net.Http.Formatting.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\System.Web.Helpers.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\System.Web.Http.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\System.Web.Http.WebHost.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\System.Web.Mvc.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\System.Web.Optimization.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\System.Web.Razor.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\System.Web.WebPages.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\WebGrease.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\RestSharp.xml
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\System.Data.SQLite.xml
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\System.Data.SQLite.dll.config
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\Newtonsoft.Json.xml
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\System.Net.Http.Formatting.xml
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\System.Web.Helpers.xml
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\System.Web.Http.xml
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\System.Web.Http.WebHost.xml
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\System.Web.Mvc.xml
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\System.Web.Optimization.xml
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\System.Web.Razor.xml
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\System.Web.WebPages.xml
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\Antlr3.Runtime.pdb
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\obj\Debug\WebEndProject.csprojAssemblyReference.cache
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\obj\Debug\WebEndProject.csproj.CoreCompileInputs.cache
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\obj\Debug\WebEndProject.csproj.CopyComplete
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\obj\Debug\WebEndProject.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\obj\Debug\WebEndProject.pdb
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\System.Data.SQLite.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\System.Data.SQLite.xml
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\System.Data.SQLite.dll.config
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\WebEndProject.xml
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\Swashbuckle.Core.dll
+C:\Users\getti\Desktop\WorldOfQuotes\WebEndProject\bin\WebActivatorEx.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\WebEndProject.xml
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\Swashbuckle.Core.dll
+C:\Users\Ailandas\Desktop\Web Paslaugos\WebGalutinis\WebEndProject-d7c898efca2d56cb6afdb16c1ebe845ad7420fa1\bin\WebActivatorEx.dll
